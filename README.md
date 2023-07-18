@@ -1,3 +1,13 @@
+---
+html:
+  embed_local_images: false
+  embed_svg: true
+  offline: false
+  toc: undefined
+
+print_background: false
+---
+
 # 测试
 
 ## 这是一个测试
